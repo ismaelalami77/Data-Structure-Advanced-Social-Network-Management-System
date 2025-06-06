@@ -1,0 +1,34 @@
+1,Ismael Alami,21
+2,Yousef Bajeh,20
+3,Mahmoud Salaymeh,21
+4,Hussam Habash,21
+5,Ghaleb Motaz,20
+6,Jana Kawamleh,20
+7,Hoor Deriyeh,20
+8,Laila Awad,20
+9,Sara Abdellhalim,20
+10,Nora Osaily,20
+11,yehya salem,40
+12,Mowaffaq Alami,52  
+13,Soha Abu Middain,42  
+14,Rami Nassar,27  
+15,Marwa Ziyadeh,26  
+16,Owda Abu Middain,35  
+17,Tareq Hamed,24  
+18,Amal Zahran,29  
+19,Nisreen Abu Middain,41  
+20,Rawan Qasim,22  
+21,Mayar Alami,19  
+22,mousa issa,28
+23,Mohammad Abu Middain,44  
+24,Hana Jaber,33  
+25,Basel Odeh,30
+26,Dina Abu Middain,30
+27,Leen Saadeh,25
+28,Nour Ayyad,23
+29,Yousef Warasnah,43
+30,Joud Mismar,10
+31,Odai Warasnah,9
+32,Ismael Abu Middain,37
+33,Waleed Sharif,46
+34,Salma Najjar,39

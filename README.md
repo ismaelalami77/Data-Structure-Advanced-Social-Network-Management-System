@@ -22,7 +22,6 @@ The system allows users to:
 ✅ Add/remove friends  
 ✅ Create/delete posts  
 ✅ See posts shared with each user  
-✅ Sort friends (A-Z or Z-A)  
 ✅ Generate reports and save them to files  
 
 ## Screenshots of the App
